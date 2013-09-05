@@ -1,0 +1,17 @@
+head, body {
+	margin: 0;
+	padding: 0;
+}
+
+.topbar {
+    background: #000;
+    width: 100%;
+    height: 150px;
+}
+.topbar canvas {
+    float: left;
+}
+.topbar h1 {
+    float: left;
+    color: #fff;
+}
